@@ -1,2 +1,2 @@
 # artifacts-hands-on
-new line
+new line - 1
